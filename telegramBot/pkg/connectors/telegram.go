@@ -12,7 +12,7 @@ type BotClient struct {
 	Handler *telegohandler.BotHandler
 }
 
-func NewBotClient(token string, ctx context.Context) (*BotClient, error) {
+func NewBotClient(ctx context.Context, token string) (*BotClient, error) {
 	bot, err := telego.NewBot(token)
 	if err != nil {
 		return nil, err
@@ -34,5 +34,5 @@ func NewBotClient(token string, ctx context.Context) (*BotClient, error) {
 }
 
 func (bot *BotClient) Close() error {
-
+	return nil
 }
