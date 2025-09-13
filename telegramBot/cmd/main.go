@@ -1,6 +1,8 @@
 package main
 
-import "telegramBot/internal/application"
+import (
+	"telegramBot/internal/application"
+)
 
 func main() {
 	application.Run()

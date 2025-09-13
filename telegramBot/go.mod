@@ -22,4 +22,5 @@ require (
 	github.com/valyala/fasthttp v1.65.0 // indirect
 	github.com/valyala/fastjson v1.6.4 // indirect
 	golang.org/x/arch v0.0.0-20210923205945-b76863e36670 // indirect
+	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
 )

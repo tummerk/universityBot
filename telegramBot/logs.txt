@@ -1,0 +1,14 @@
+{"time":"2025-09-11T16:45:53.3465699+02:00","level":"INFO","msg":"bot created"}
+{"time":"2025-09-11T16:45:56.8874961+02:00","level":"INFO","msg":"bot created"}
+{"time":"2025-09-11T22:05:54.4719178+02:00","level":"INFO","msg":"bot created"}
+{"time":"2025-09-11T22:22:18.0663589+02:00","level":"INFO","msg":"bot created"}
+{"time":"2025-09-13T00:31:45.3386383+02:00","level":"INFO","msg":"telegram created"}
+{"time":"2025-09-13T00:31:48.0626393+02:00","level":"INFO","msg":"telegram created"}
+{"time":"2025-09-13T00:32:10.8293713+02:00","level":"INFO","msg":"telegram created"}
+{"time":"2025-09-13T00:33:14.7018047+02:00","level":"INFO","msg":"telegram created"}
+{"time":"2025-09-13T00:37:05.7975609+02:00","level":"INFO","msg":"telegram created"}
+{"time":"2025-09-13T00:37:43.3016492+02:00","level":"INFO","msg":"telegram created"}
+{"time":"2025-09-13T00:47:01.2311412+02:00","level":"INFO","msg":"telegram created"}
+{"time":"2025-09-13T00:47:15.0996351+02:00","level":"INFO","msg":"hello world","username":"pavvvluv"}
+{"time":"2025-09-13T18:49:39.2947799+02:00","level":"INFO","msg":"telegram created"}
+{"time":"2025-09-13T18:50:26.4929122+02:00","level":"INFO","msg":"hello world","username":"pavvvluv"}
